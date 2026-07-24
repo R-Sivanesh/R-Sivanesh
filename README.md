@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:3B82F6,100:7C3AED&text=R.%20Sivanesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Unity%20Game%20Developer&descAlignY=60" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,50:3B82F6,100:7C3AED&text=R.%20Sivanesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Unity%20Game%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;🤖+AI+%26+Machine+Learning+Student;💻+Full+Stack+Developer;🎮+Unity+Game+Developer;🚀+Building+Projects+That+Matter;✨+Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;🤖+AI+%26+Machine+Learning+Student;💻+Full+Stack+Developer;🎮+Unity+Game+Developer;🚀+Building+Real+World+Projects;✨+Always+Learning+New+Things"/>
 
-<br>
+<br><br>
 
 <a href="https://rs-portfolio-xi.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=00F5FF"/>
@@ -20,25 +20,43 @@
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name      : R. Sivanesh
 Education : B.Tech Artificial Intelligence & Machine Learning
-Focus      : AI • Full Stack • Game Development
-Currently  : Building Real-World Projects
-Goal       : Software Engineer & AI Engineer
+College   : IFET College of Engineering
+
+Interests :
+  - Artificial Intelligence
+  - Full Stack Development
+  - Unity Game Development
+  - UI/UX Design
+
+Currently Learning :
+  - JavaScript
+  - React
+  - AI Applications
+
+Goal :
+  Build innovative software that solves real-world problems.
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Programming Languages
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css"/>
 
-<br><br>
+</p>
+
+---
+
+# 🛠 Technologies & Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,blender,figma"/>
 
@@ -46,19 +64,31 @@ Goal       : Software Engineer & AI Engineer
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-🧠 AI Agriculture Advisor
-
-🌐 Personal Portfolio Website
-
-🎮 Unity Game Projects
-
-🤖 AI Powered Applications
+### 🌱 AI Agriculture Advisor
+AI-powered agriculture assistant for plant disease identification and crop guidance.
 
 ---
 
-# 📊 GitHub Analytics
+### 🌐 Personal Portfolio
+A responsive personal portfolio showcasing my projects and skills.
+
+🔗 https://rs-portfolio-xi.vercel.app/
+
+---
+
+### 🎮 Unity Game Development
+Building games and interactive experiences using Unity and C#.
+
+---
+
+### 🤖 AI Applications
+Developing intelligent applications using modern AI tools and APIs.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -68,21 +98,11 @@ Goal       : Software Engineer & AI Engineer
 
 </p>
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sivanesh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R-Sivanesh&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
+<br>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=R-Sivanesh&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sivanesh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -98,20 +118,36 @@ Goal       : Software Engineer & AI Engineer
 
 ---
 
-# 🐍 Snake Contribution
+# 🎯 Goals for 2026
 
-<p align="center">
+✅ Master Full Stack Development
 
-<img src="https://raw.githubusercontent.com/R-Sivanesh/R-Sivanesh/output/github-contribution-grid-snake-dark.svg"/>
+✅ Build AI-powered Applications
 
-</p>
+✅ Publish Unity Games
+
+✅ Contribute to Open Source
+
+✅ Continuously Learn New Technologies
 
 ---
 
 <div align="center">
 
-### ⭐ "Dream. Code. Build. Repeat."
+## 🌟 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00F5FF,50:3B82F6,100:7C3AED"/>
+<a href="https://rs-portfolio-xi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sivanesh-rajasekar-a08059361">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+### ⭐ "Dream • Code • Build • Repeat"
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00F5FF,50:3B82F6,100:7C3AED"/>
 
 </div>
