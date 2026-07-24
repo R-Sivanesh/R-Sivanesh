@@ -1,98 +1,117 @@
 <h1 align="center">Hi 👋, I'm R. Sivanesh</h1>
 
 <h3 align="center">
-AI & Machine Learning Student | Full-Stack Web Developer | Tech Enthusiast
+AI & Machine Learning Student • Full-Stack Web Developer • Game Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Full-Stack+Developer;JavaScript+%7C+Python+%7C+React+%7C+Node.js;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Full-Stack+Web+Developer;Python+%7C+JavaScript+%7C+C+%7C+C%2B%2B+%7C+C%23;Game+Developer+using+Unity;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning
-- 💻 Passionate about Full-Stack Development
-- 🌱 Currently learning React, Express, MongoDB & AI
-- 🤖 Building AI-powered applications
-- 🎯 Goal: Become an AI Engineer & Full-Stack Developer
-- ⚡ Love solving real-world problems using technology
+🎓 B.Tech Artificial Intelligence & Machine Learning
 
----
+💻 Passionate about Software Development & AI
 
-## 🌐 Connect with Me
+🎮 Unity Game Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
+🌱 Currently learning Modern Web Development & Artificial Intelligence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.%20Sivanesh-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+🚀 Building practical projects and improving every day
 
 ---
 
-## 💻 Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,git,github,vscode,figma" />
+<a href="https://rs-portfolio-xi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sivanesh-rajasekar-a08059361">
+<img src="https://img.shields.io/badge/LinkedIn-Sivanesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 🚀 Projects
+# 💻 Languages
 
-### 🌱 AI Agriculture Advisor
+<p align="center">
 
-AI-powered plant disease detection and farming assistant.
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" />
 
-### 🌐 Portfolio Website
-
-Personal portfolio built using HTML, CSS & JavaScript.
-
-### 🤖 AI Chat Applications
-
-Web applications integrated with AI APIs.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tools
 
-![](https://github-readme-stats.vercel.app/api?username=R-Sivanesh&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=R-Sivanesh&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,blender" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sivanesh&layout=compact&theme=tokyonight)
-
----
-
-## 🛠 Tools
-
-- VS Code
-- Git
-- GitHub
-- MongoDB Compass
-- Postman
-- Figma
-- Canva
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 🚀 Current Projects
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=R-Sivanesh&theme=tokyo-night)
+🌱 AI Agriculture Advisor
+
+🌐 Personal Portfolio Website
+
+🤖 AI Powered Applications
+
+🎮 Unity Game Development
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=R-Sivanesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sivanesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=R-Sivanesh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Sivanesh&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=R-Sivanesh&label=Visitors&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=R-Sivanesh&label=Profile+Views&color=blue&style=for-the-badge)
+### ⭐ "Code. Learn. Build. Repeat."
 
 </p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile!
-
-</h3>
