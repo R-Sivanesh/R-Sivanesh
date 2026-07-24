@@ -24,11 +24,6 @@ Passionate About:
   • Unity Game Development
   • UI / UX Design
 
-Currently Learning:
-  • React
-  • AI Applications
-  • Modern Web Development
-
 Goal:
   Build innovative software that solves real-world problems.
 ```
@@ -81,7 +76,7 @@ Building intelligent applications using AI.
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals 
 
 - 🚀 Become an AI Engineer
 - 💻 Master Full Stack Development
